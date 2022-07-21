@@ -34,5 +34,6 @@ Pipeline(steps=[('standardscaler', StandardScaler()),
 clf.score(X_test, y_test)
  
 0.919
+
 clf.predict_proba([[64, 152]])
 array([[0.80370245, 0.19629755]])
