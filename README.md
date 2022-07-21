@@ -4,3 +4,4 @@ Mini Project
 •	Our goal is to train a model with the given data to classify gender.
 •	Let's look more into the data
 •	This dataset consists of three columns which is Height, Weight and Gender.
+
