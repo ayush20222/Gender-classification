@@ -1,0 +1,26 @@
+•	The dataset is collected from kaggle.
+•	The dataset consists of a CSV file name weight-height.csv. 
+•	The dataset consists of 3 features i.e., Height, Weight and Gender.
+•	The dataset consists of 10,000 samples of different persons.
+
+
+1.	Height
+•	The heights are mentioned in inches.
+•	There are no null values in the Height column.
+•	Here we get a well distributed data and a bell shaped curve shows that it is apt for analysis.
+
+2.	Weight
+•	The weights are mentioned in pounds.
+•	There are no null values in the Weight column.
+•	Here we get a well distributed data and a bell shaped curve shows that it is apt for analysis.
+
+3.	Gender
+•	Gender is a nominal kind of qualitative data, because there is no numerical relation between different genders.
+
+The data which we collect from kaggle is already well pre-processed. So no need of pre-processing.
+
+
+
+
+
+
